@@ -1,0 +1,2 @@
+# Ignore local configuration files that might contain passwords
+config.php
